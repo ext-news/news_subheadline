@@ -1,0 +1,38 @@
+{
+  "name": "georgringer/news_subheadline",
+  "type": "typo3-cms-extension",
+  "description": "Extend news by a sub headline",
+  "version": "1.0.2",
+  "keywords": [
+    "TYPO3",
+    "extension",
+    "news"
+  ],
+  "homepage": "http://ringer.it",
+  "authors": [
+    {
+      "name": "Georg Ringer",
+      "role": "Developer",
+      "homepage": "http://ringer.it"
+    }
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "require": {
+    "typo3/cms-core": ">=6.2.10,<8.3",
+    "georgringer/news": ">3.2.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "GeorgRinger\\NewsSubheadline\\": "Classes"
+    }
+  },
+  "replace": {
+    "news-feuser": "self.version",
+    "typo3-ter/news-subheadline": "self.version"
+  }
+}
