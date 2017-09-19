@@ -1,5 +1,5 @@
 {
-  "name": "georgringer/news_subheadline",
+  "name": "georgringer/news-subheadline",
   "type": "typo3-cms-extension",
   "description": "Extend news by a sub headline",
   "version": "1.0.0",
