@@ -4,7 +4,7 @@ This extension extends the news record by a subheadline text field.
 
 ## Requirements
 
-- TYPO3 CMS 6.2-8.2
+- TYPO3 CMS 7.6.0-8.7
 - EXT:news 3.2.5+
 - License: GPL 2+
 
@@ -12,7 +12,7 @@ This extension extends the news record by a subheadline text field.
 
 Install the extension as any other extension.
 
-If you use composer, use either ``"georgringer/news-subheadline":"1.0.*`` or ``"typo3-ter/news-subheadline":"1.0.*``
+If you use composer, use ` composer requite georgringer/news-subheadline`.
 
 ## Usage
 

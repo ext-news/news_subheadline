@@ -17,10 +17,10 @@ $EM_CONF[$_EXTKEY] = array(
     'clearCacheOnLoad' => true,
     'lockType' => '',
     'author_company' => 'ringer.it',
-    'version' => '1.0.0',
+    'version' => '2.1.0',
     'constraints' => array(
         'depends' => array(
-            'typo3' => '6.2.10-8.9.99',
+            'typo3' => '7.6.0-8.9.99',
             'news' => '3.2.5-9.9.99'
         ),
         'conflicts' => array(),

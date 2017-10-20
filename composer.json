@@ -2,7 +2,6 @@
   "name": "georgringer/news-subheadline",
   "type": "typo3-cms-extension",
   "description": "Extend news by a sub headline",
-  "version": "1.0.0",
   "keywords": [
     "TYPO3",
     "extension",
@@ -20,7 +19,7 @@
     "GPL-2.0"
   ],
   "require": {
-    "typo3/cms-core": ">=6.2.10,<9",
+    "typo3/cms-core": ">=7.6,<9",
     "georgringer/news": ">3.2.5"
   },
   "require-dev": {
