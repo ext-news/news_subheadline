@@ -4,7 +4,7 @@ This extension extends the news record by a subheadline text field.
 
 ## Requirements
 
-- TYPO3 CMS 7.6.0-8.7
+- TYPO3 CMS 7.6.0-8.7LTS
 - EXT:news 3.2.5+
 - License: GPL 2+
 
